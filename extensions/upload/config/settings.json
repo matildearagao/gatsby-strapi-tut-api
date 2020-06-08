@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "dxfitnugl",
+      "api_key": "563599658788319",
+      "api_secret": "4a-XGvcOmxQ7LMmuUBEHn5zY3UQ"
+    }
+  }
